@@ -1,4 +1,8 @@
- •  👋 Hi, I’m @malikrasaq.       
+ •  👋 Hi, I’m Malik Rasaq
+ 
+ 
+
+
     •  👀 I’m interested in everything tech related.   
     •  🌱 I’m currently learning Mobile development with flutter & dart.  
     •  💞️ I’m looking to collaborate on projects that solves real world problems.  
