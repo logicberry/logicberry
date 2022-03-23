@@ -8,7 +8,7 @@
    •  💞️ I’m looking to collaborate on projects that address real-world problems.  
    •  😄 Pronouns: He/His.                  
    •  ⚡ Fun fact: I love trying out new things.   
-   •  📫 How to reach me:  [Twitter- @mallikoras](https://twitter.com/@malikoras), Email- malikrasaq@gmail.com.  
+   •  📫 How to reach me:  [Twitter- @mallikoras](https://twitter.com/@malikoras)
 
 
 
