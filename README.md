@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **malikrasaq@gmail.com**
 
+- 😄 Pronouns: He/Him
+
 - ⚡ Fun fact **I love trying out new things**
 
 ### Connect with me:
