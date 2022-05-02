@@ -1,3 +1,5 @@
+<img src="https://github.com/malikrasaq/malikrasaq/blob/0a3bc70101be79da9c86721a0646c5c79d8d6a96/Twitter%20header.png" alt="#Codegenius">
+
 <h1 align="center">Hi 👋, I'm Malik</h1>
 <h3 align="center">A Software Engineer who is very passionate about mobile technologies</h3>
 
