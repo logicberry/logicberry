@@ -4,12 +4,12 @@
 <h3 align="center">A Software Engineer who is very passionate about mobile technologies</h3>
 
 
-• 🌱 I’m currently learning **Mobile development with flutter💙 & dart**
-• 👯 I’m looking to collaborate on **projects that address real-world problems.**
-• 💬 Ask me about **everything tech related**
-• 📫 How to reach me **malikrasaq@gmail.com**
-• 😄 Pronouns: He/Him
-• ⚡ Fun fact **I love trying out new things**
+- 🌱 &nbsp; I’m currently learning **Mobile development with flutter💙 & dart**.
+- 👯 &nbsp; I’m looking to collaborate on **projects that address real-world problems.**.
+- 💬 &nbsp; Ask me about **everything tech related**.
+- 📫 &nbsp; How to reach me **malikrasaq@gmail.com**.
+- 😄 &nbsp; Pronouns: He/Him.
+- ⚡ &nbsp; Fun fact **I love trying out new things**.
 
 ### Connect with me:
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/malikoras)
