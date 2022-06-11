@@ -41,9 +41,9 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=malikrasaq&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=malikrasaq&show_icons=true&theme=buefy)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malikrasaq&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malikrasaq&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malikrasaq&layout=compact&theme=tokyonight)](https://github.com/malikrasaq/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malikrasaq&layout=compact&theme=buefy)](https://github.com/malikrasaq/github-readme-stats)
 
