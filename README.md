@@ -1,6 +1,6 @@
 <img src="https://github.com/malikrasaq/malikrasaq/blob/0a3bc70101be79da9c86721a0646c5c79d8d6a96/Twitter%20header.png" alt="#Codegenius">
 
-<h1 align="center">Hi 👋, I'm Malik</h1>
+<h2 align="center">Hi 👋, I'm Malik</h2>
 <h3 align="center">A Software Engineer who is very passionate about mobile technologies</h3>
 
 
@@ -40,10 +40,12 @@
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 
 
+<br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=malikrasaq&show_icons=true&theme=buefy)
+<a href="https://github.com/chyke007">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malikrasaq&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikrasaq&theme=buefy&layout=compact" />
+</a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malikrasaq&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malikrasaq&layout=compact&theme=buefy)](https://github.com/malikrasaq/github-readme-stats)
+<br/>
 
