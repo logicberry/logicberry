@@ -34,7 +34,7 @@
 
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-1AC61A?style=for-the-badge&logo=figma&logoColor=blue)](https://www.figma.com/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-29751A?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
