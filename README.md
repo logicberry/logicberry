@@ -16,7 +16,6 @@
 
 
 **Languages & Frameworks:**
-
 [![Dart](https://img.shields.io/badge/Dart-6FB6F9?style=for-the-badge&logo=dart&logoColor=blue)](https://dart.dev)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Flutter](https://img.shields.io/badge/Flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=blue)](https://flutter.dev)
@@ -25,13 +24,11 @@
 
 
 **Database:**
-
 [![MongoDB](https://img.shields.io/badge/MongoDB-29751A?style=for-the-badge&logo=mongodb&logoColor=green)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-F4CB2A?style=for-the-badge&logo=firebase&logoColor=orange)](https://firebase.google.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
 **Tools:**
-
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-1AC61A?style=for-the-badge&logo=figma&logoColor=blue)](https://www.figma.com/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
