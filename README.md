@@ -4,17 +4,12 @@
 <h3 align="center">A Software Engineer who is very passionate about mobile technologies</h3>
 
 
-- 🌱 I’m currently learning **Mobile development with flutter💙 & dart**
-
-- 👯 I’m looking to collaborate on **projects that address real-world problems.**
-
-- 💬 Ask me about **everything tech related**
-
-- 📫 How to reach me **malikrasaq@gmail.com**
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact **I love trying out new things**
+• 🌱 I’m currently learning **Mobile development with flutter💙 & dart**
+• 👯 I’m looking to collaborate on **projects that address real-world problems.**
+• 💬 Ask me about **everything tech related**
+• 📫 How to reach me **malikrasaq@gmail.com**
+• 😄 Pronouns: He/Him
+• ⚡ Fun fact **I love trying out new things**
 
 ### Connect with me:
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/malikoras)
@@ -39,7 +34,7 @@
 
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-1AC61A?style=for-the-badge&logo=figma&logoColor=blue)](https://www.figma.com/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-29751A?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
