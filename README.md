@@ -4,7 +4,7 @@
 <h3 align="center">A Software Engineer who is very passionate about mobile technologies</h3>
 
 
-- 🌱 &nbsp; I’m currently learning **Mobile development with flutter💙 & dart**.
+- 🌱 &nbsp; I’m currently learning **Mobile development(Flutter) & Backend engineering(NodeJS)**.
 - 👯 &nbsp; I’m looking to collaborate on **projects that address real-world problems.**.
 - 💬 &nbsp; Ask me about **everything tech related**.
 - 📫 &nbsp; How to reach me **malikrasaq@gmail.com**.
