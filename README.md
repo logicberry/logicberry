@@ -17,17 +17,17 @@
 
 **Languages & Frameworks:** 
 
-[![Dart](https://img.shields.io/badge/Dart-6FB6F9?style=for-the-badge&logo=dart&logoColor=blue)](https://dart.dev)
+[![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=darkblue)](https://dart.dev)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Flutter](https://img.shields.io/badge/Flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=blue)](https://flutter.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=darkblue)](https://flutter.dev)
 [![ExpressJS](https://img.shields.io/badge/ExpressJS-092E20?style=for-the-badge&logo=express&logoColor=green)](https://expressjs.com/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-60BEF8?style=for-the-badge&logo=tailwindcss&logoColor=blue)](https://tailwindcss.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=darkblue)](https://tailwindcss.com/)
 
 
 **Database:**   
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-29751A?style=for-the-badge&logo=mongodb&logoColor=green)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-F4CB2A?style=for-the-badge&logo=firebase&logoColor=orange)](https://firebase.google.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=orange)](https://firebase.google.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
 **Tools:**
@@ -42,10 +42,16 @@
 
 <br/>
 
-<a href="https://github.com/chyke007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malikrasaq&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikrasaq&theme=buefy&layout=compact" />
-</a>
+<a><h2>Stats</h2></a>
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=malikrasaq&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=malikrasaq&theme=shades-of-purple&hide_border=true"/>
+    </a>
+  </div>
+  </br>
 
 <br/>
 
