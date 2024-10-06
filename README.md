@@ -4,12 +4,13 @@
 <h3 align="center">Software Engineer | CSE @ OAU</h3>
 
 
-- 🌱 &nbsp; I’m currently learning **Data Structures & algorithm**.
-- 👯 &nbsp; I’m looking to collaborate on **projects that address real-world problems.**.
-- 💬 &nbsp; Ask me about **everything tech related**.
-- 📫 &nbsp; How to reach me **malikrasaq@gmail.com**.
-- 😄 &nbsp; Pronouns: He/Him.
-- ⚡ &nbsp; Fun fact **I love trying out new things**.
+- 🌱 I’m currently learning **Data Structures & algorithm**.
+- 👯 I’m looking to collaborate on **projects that address real-world problems.**.
+- 💬 Ask me about **everything tech related**.
+- 👀 Open to Internship Opportunities (prev SWE Intern @Grow)
+- 📫 How to reach me **malikrasaq@gmail.com**.
+- 😄 Pronouns: He/Him/His.
+- ⚡ Fun fact **I love trying out new things**.
 
 ### Connect with me:
 [![image](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/malikoras)
