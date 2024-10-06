@@ -1,4 +1,4 @@
-<img src="https://github.com/malikrasaq/malikrasaq/blob/0a3bc70101be79da9c86721a0646c5c79d8d6a96/Twitter%20header.png" alt="#Codegenius">
+<img src="https://github.com/malikrasaq/malikrasaq/blob/f07f8d9c4fa721b76e76af44c706fbe7f621a0d1/logic.png" alt="#LogicBerry">
 
 <h2 align="center">Hi 👋, I'm Malik</h2>
 <h3 align="center">Software Engineer | CSE @ OAU</h3>
@@ -13,6 +13,7 @@
 - ⚡ Fun fact **I love trying out new things**.
 
 ### Connect with me:
-[![image](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/malikoras)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malikrasaq)
+[![image](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/logicberry_)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malikrasa)
+[![image](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/logicberry_)
 
