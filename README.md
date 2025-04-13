@@ -10,8 +10,7 @@
 - 👀 Open to New Grad roles (prev SWE Intern @Grow)
 - 📫 Reach me at malikrasaq9@gmail.com for opportunities or collaborations.
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I love exploring new tech, frameworks, and tools—there's always something exciting to learn!
-
+⚡ Fun fact: I love exploring new tech, frameworks, and tools—there's always something exciting to learn! (Also low-key an expert in debugging code and stalking my crush like a seasoned OSINT agent 👀💻)
 
 
 ### Connect with me:
