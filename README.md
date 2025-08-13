@@ -3,14 +3,13 @@
 <h2 align="center">Hi there 👋</h2>
 <h3 align="center">Software Engineer || Flutter || TypeScript || NodeJS || Python</h3>
 
-
-- 🌱 Currently diving deep into Data Structures & Algorithms to level up my problem-solving skills.
+- 🤖 Currently exploring **AI Agent Engineering** & **Indie App Marketing**.
 - 👯 Passionate about collaborating on projects that tackle real-world challenges, especially in tech-driven solutions.
 - 💬 Feel free to ask me about anything tech-related! From software engineering to cutting-edge trends, I'm always ready for a discussion.
-- 👀 Open to New Grad roles (prev SWE Intern @Grow)
+- 👀 Open to New Grad roles.
 - 📫 Reach me at malikrasaq9@gmail.com for opportunities or collaborations.
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I love exploring new tech, frameworks, and tools—there's always something exciting to learn! (Also low-key an expert in debugging code and stalking my crush like a seasoned OSINT agent 👀💻)
+- ⚡ Fun fact: I love exploring new tech, frameworks, and tools—there's always something exciting to learn! I’m also great at tracking down information like an OSINT agent 👀.
 
 
 ### Connect with me:
